@@ -1,0 +1,13 @@
+E:\Study\Visual Studio\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.exe
+E:\Study\Visual Studio\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.deps.json
+E:\Study\Visual Studio\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.runtimeconfig.json
+E:\Study\Visual Studio\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.runtimeconfig.dev.json
+E:\Study\Visual Studio\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.dll
+E:\Study\Visual Studio\NoteApp\bin\Debug\netcoreapp3.1\NoteApp.pdb
+E:\Study\Visual Studio\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.csproj.CoreCompileInputs.cache
+E:\Study\Visual Studio\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.AssemblyInfoInputs.cache
+E:\Study\Visual Studio\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.AssemblyInfo.cs
+E:\Study\Visual Studio\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.dll
+E:\Study\Visual Studio\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.pdb
+E:\Study\Visual Studio\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.genruntimeconfig.cache
+E:\Study\Visual Studio\NoteApp\obj\Debug\netcoreapp3.1\NoteApp.csprojAssemblyReference.cache

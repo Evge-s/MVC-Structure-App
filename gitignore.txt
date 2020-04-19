@@ -2,4 +2,4 @@
 bin/
 obj/
 NoteApp.csproj
-Program.cs
+NoteApp.sln

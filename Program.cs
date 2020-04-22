@@ -19,7 +19,7 @@ namespace NoteApp
                 switch (command)
                 {
                     case "exit":                        
-                        Console.WriteLine("Bay");
+                        view.ViewOutLine("Bay");
                         Environment.Exit(0);
                         break;
                     case "help":

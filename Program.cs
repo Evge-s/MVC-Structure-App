@@ -31,7 +31,7 @@ namespace NoteApp
                         {
                             controllerNote.doCommand(command);
                         }
-                        else if (!controllerNote.CheckCommand(command))
+                        else (!controllerNote.CheckCommand(command))
                         {
                             view.ViewOutLine("Incorrect command!");
                         }
